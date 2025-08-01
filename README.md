@@ -29,10 +29,10 @@ Currently completing my **B.S. in Data Analytics & Project Management**, I’m l
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🎬 Movie Recommender App]| Personalized movie recommendations using SVD and Streamlit | Python, Surprise, Streamlit |
-| [🗣️ Voice Calendar Assistant]| Voice-controlled Google Calendar + note-taking | Python, Google API, SpeechRecognition |
-| [📊 AI BI Dashboard]| Business intelligence dashboard for AI trends | Power BI, SQL, DAX |
-| [📈 Crime & Weather Analytics]| Storm-crime correlation study with job aid and scripts | SQL, Python, Power BI |
+| 🎬 Movie Recommender App| Personalized movie recommendations using SVD and Streamlit | Python, Surprise, Streamlit |
+| 🗣️ Voice Calendar Assistant| Voice-controlled Google Calendar + note-taking | Python, Google API, SpeechRecognition |
+| 📊 AI BI Dashboard| Business intelligence dashboard for AI trends | Power BI, SQL, DAX |
+| 📈 Crime & Weather Analytics| Storm-crime correlation study with job aid and scripts | SQL, Python, Power BI |
 
 ---
 
