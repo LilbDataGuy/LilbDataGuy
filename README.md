@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lilbdataguy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square"></a>
-  <a href="mailto:brandongibbs@email.com"><img src="https://img.shields.io/badge/-Email-black?logo=gmail&style=flat-square"></a>
+  <a href="mailto:brandongibbs77@gmailmail.com"><img src="https://img.shields.io/badge/-Email-black?logo=gmail&style=flat-square"></a>
   <a href="https://github.com/LilbDataGuy"><img src="https://img.shields.io/github/followers/LilbDataGuy?label=GitHub&style=flat-square"></a>
 </p>
 
@@ -29,10 +29,10 @@ Currently completing my **B.S. in Data Analytics & Project Management**, I’m l
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🎬 Movie Recommender App](https://github.com/LilbDataGuy/movie-recommender-app) | Personalized movie recommendations using SVD and Streamlit | Python, Surprise, Streamlit |
-| [🗣️ Voice Calendar Assistant](https://github.com/LilbDataGuy/voice-calendar-assistant) | Voice-controlled Google Calendar + note-taking | Python, Google API, SpeechRecognition |
-| [📊 AI BI Dashboard](https://github.com/LilbDataGuy/ai-bi-dashboard) | Business intelligence dashboard for AI trends | Power BI, SQL, DAX |
-| [📈 Crime & Weather Analytics](https://github.com/LilbDataGuy/scdr-miami-police) | Storm-crime correlation study with job aid and scripts | SQL, Python, Power BI |
+| [🎬 Movie Recommender App]| Personalized movie recommendations using SVD and Streamlit | Python, Surprise, Streamlit |
+| [🗣️ Voice Calendar Assistant]| Voice-controlled Google Calendar + note-taking | Python, Google API, SpeechRecognition |
+| [📊 AI BI Dashboard]| Business intelligence dashboard for AI trends | Power BI, SQL, DAX |
+| [📈 Crime & Weather Analytics]| Storm-crime correlation study with job aid and scripts | SQL, Python, Power BI |
 
 ---
 
