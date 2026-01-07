@@ -53,7 +53,6 @@ Currently completing my **B.S. in Data Analytics & Project Management**, I’m l
 
 - 📧 Email: brandongibbs@email.com
 - 💼 LinkedIn: [linkedin.com/in/lilbdataguy](https://www.linkedin.com/in/lilbdataguy/)
-- 🌐 Portfolio: Coming soon!
 
 ---
 <p align="center">
